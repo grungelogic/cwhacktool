@@ -18,7 +18,7 @@ int main() {
 	int pov=1; // expert(1) or defuser(2) pov
 	int RBSL=0000;
 	//int RBSLarray[4];
-	char check; // y/n char for do-while loop to check if we wanna to back to the menu
+	char check; // y/n char for do-while loop to check if we wanna go back to the menu
 	
 	printf("WELCOME TO COMPLEX WIRES HACKTOOL !\n");
 	printf("\n");
